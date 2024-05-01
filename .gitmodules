@@ -3,8 +3,8 @@
 	url = git@github.com:argtable/argtable3.git
 [submodule "clients/UME"]
 	path = clients/UME
-	url = git@github.com:lanl/UME.git
-	branch = scoria
+	url = git@github.com:sumathil/UME.git
+	branch = loop_tiling
 [submodule "clients/eap-patterns"]
 	path = clients/eap-patterns
 	url = git@github.com:JDTruj2018/eap-patterns.git
